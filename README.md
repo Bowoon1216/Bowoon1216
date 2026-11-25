@@ -1,7 +1,7 @@
 
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ☀️ About me ☀️ </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> 생각하고, 도전하는 개발자입니다 </li><li> FE 개발을 주로, Computer Graphics와 AI vision에도 관심이 많습니다.</li><li> 다양한 해외 경험과 자유롭고 도전적인 삶을 추구합니다. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> 생각하고, 도전하는 개발?새발?자입니다 </li><li> FE 개발을 주로, Computer Graphics와 AI vision에도 관심이 많습니다.</li><li> 다양한 해외 경험과 자유롭고 도전적인 삶을 추구합니다. </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✨ Tech Stacks ✨ </h2> <br> 
